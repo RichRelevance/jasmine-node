@@ -3,7 +3,7 @@ jasmine-node v2.0.0
 ===================
 
 ```sh
-npm install -g aleclarson/jasmine-node
+npm install -g moustachedelait/jasmine-node
 ```
 
 With [**jasmine-core**](https://www.npmjs.com/package/jasmine-core) as a new peer dependency, you gain control of which version of [**Jasmine**](https://github.com/jasmine/jasmine) to use. 
